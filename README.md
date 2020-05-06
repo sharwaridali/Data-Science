@@ -1,4 +1,4 @@
 # Data-Analytics
-Made for ISE Component
+ISE Component
 Name: Sharwari Dali
 Roll No.: TY13
