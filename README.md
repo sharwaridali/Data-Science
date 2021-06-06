@@ -1,4 +1,3 @@
 # Data-Analytics
-ISE Component
+The Spark Foundation GRIP Project
 Name: Sharwari Dali
-Roll No.: TY13
