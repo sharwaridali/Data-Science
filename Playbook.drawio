@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T11:57:44.523Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vvWMqjDkfGkX54fIuCHj" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T12:20:09.876Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yjHDznhkeniqOX9UQ4ca" version="22.1.5" type="github">
   <diagram name="Page-1" id="3oRTwqISSOKy9MOM9xWJ">
     <mxGraphModel dx="1771" dy="1481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -536,8 +536,43 @@
         <mxCell id="lcPYuuhz_WvnnKhGVCEH-153" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Determine Investigation Scope&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="910" y="450" width="140" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-166" target="lcPYuuhz_WvnnKhGVCEH-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-176" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-166" target="lcPYuuhz_WvnnKhGVCEH-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lcPYuuhz_WvnnKhGVCEH-166" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;New Signs of Compromise&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="870" width="150" height="150" as="geometry" />
+          <mxGeometry x="955" y="870" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-171" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-168" target="lcPYuuhz_WvnnKhGVCEH-170">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-168" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Contain Activity&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-173" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-170" target="lcPYuuhz_WvnnKhGVCEH-172">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-170" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Adjust Detection tools&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="912.5" width="150" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-172" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Share CTI&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1467.5" y="450" width="115" height="57.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.034;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-172" target="lcPYuuhz_WvnnKhGVCEH-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-175" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Execute Eradication Plan&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-177" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Third Party Analysis Support&lt;br&gt;(If needed)&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=8;fontFamily=Verdana;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lcPYuuhz_WvnnKhGVCEH-179" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.908;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="lcPYuuhz_WvnnKhGVCEH-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1300" y="645" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
